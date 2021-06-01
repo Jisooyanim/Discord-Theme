@@ -1,7 +1,7 @@
 # Discord-Theme
 Theme for discord
 ------ 
-### Instructions 
+### Instructions: 
 1. Install BetterDiscord(https://betterdiscord.app/)
 2. Choose your theme at https://betterdiscord.app/themes
 3. Download your chosen theme

@@ -1,5 +1,5 @@
-# Discord-Theme
-Theme for discord
+# Discord-Theme-and-Plugins
+
 ------ 
 ### Instructions: 
 1. Install BetterDiscord(https://betterdiscord.app/)
